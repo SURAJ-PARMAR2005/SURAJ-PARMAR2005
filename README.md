@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **REACT,NODEJS, MONGODB**
 
-- 📫 How to reach me **surajparmar049@gmail.com**
+- 📫 How to reach me **surajparmar058@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Very Cool :)**
 
