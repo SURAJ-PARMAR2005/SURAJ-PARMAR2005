@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **EXPRESS**
 
-- 👨‍💻 All of my projects are available at [https://suraj20parmar.tech/](https://suraj20parmar.tech/)
+- 👨‍💻 All of my projects are available at [https://suraj20parmar.tech/](https://suraaj.vercel.app/)
 
 - 💬 Ask me about **REACT,NODEJS, MONGODB**
 
