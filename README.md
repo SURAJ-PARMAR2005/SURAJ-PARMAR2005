@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm SURAJ PARMAR</h1>
+<h1 align="center">HEY 👋, I'm SURAJ PARMAR</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-parmar2005" alt="suraj-parmar2005" /></a> </p>
 
 - 🔭 I’m currently working on [Habbit Tracker](https://github.com/SURAJ-PARMAR2005/Habbit_tracker)
 
-- 🌱 I’m currently learning **EXPRESS**
+- 🌱 I’m currently learning **AWS AND DOCKER**
 
 - 👨‍💻 All of my projects are available at [https://suraaj.vercel.app/](https://suraaj.vercel.app/)
 
-- 💬 Ask me about **REACT,NODEJS, MONGODB**
+- 💬 Ask me about **REACT,NODEJS, MONGODB,EXPRESS,DSA**
 
 - 📫 How to reach me **surajparmar058@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Very Cool :)**
+- ⚡ My Motivation **IF SOMEONE HAS ALREADY DONE IT THEN I CAN TOO , ELSE ILL BE THE FIRST ONE TO DO IT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
