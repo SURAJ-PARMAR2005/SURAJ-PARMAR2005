@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-parmar2005" alt="suraj-parmar2005" /></a> </p>
 
-- 🔭 I’m currently working on [Habbit Tracker](https://github.com/SURAJ-PARMAR2005/Habbit_tracker)
+- 🔭 I’m currently working on [Fintech Dashboard]((https://github.com/SURAJ-PARMAR2005/Zorvyn_Assigment))
 
 - 🌱 I’m currently learning **AWS AND DOCKER**
 
